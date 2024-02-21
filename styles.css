@@ -185,6 +185,7 @@ a{
 }
 
 .headder{color: black;
+    width: 100%;
     letter-spacing: -0.03em;
     text-transform: uppercase;
     line-height: 24.59px;
